@@ -23,7 +23,7 @@ xo-ai/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/xo-ai.git
+git clone https://github.com/MehdiD0/xo-ai.git
 ```
 
 2. Navigate to the project:
