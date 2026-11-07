@@ -11,7 +11,7 @@ A simple Tic-Tac-Toe game built with Python, featuring an AI opponent powered by
 ## Project Structure
 
 ```text
-xo-ai/
+tictactoeAgent/
 ├── main.py
 ├── game.py
 ├── ai.py
