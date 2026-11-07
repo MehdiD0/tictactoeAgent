@@ -20,19 +20,13 @@ xo-ai/
 
 ## How to Run
 
-1. Clone the repository:
+.Clone the repository:
 
 ```bash
-git clone https://github.com/MehdiD0/xo-ai.git
+git clone https://github.com/MehdiD0/tictactoeAgent.git
 ```
 
-2. Navigate to the project:
-
-```bash
-cd xo-ai
-```
-
-3. Run the game:
+.Run the game:
 
 ```bash
 python main.py
